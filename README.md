@@ -1,0 +1,1 @@
+# fancy-job-manager-plugin
