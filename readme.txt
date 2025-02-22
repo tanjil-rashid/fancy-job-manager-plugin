@@ -1,5 +1,5 @@
 === Jobs Manager ===
-Contributors: yourname  
+Contributors: Md. Tanjil ur Rashid  
 Tags: jobs, careers, hiring, employment  
 Requires at least: 5.2  
 Tested up to: 6.4  
